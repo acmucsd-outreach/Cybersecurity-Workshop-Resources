@@ -26,13 +26,14 @@ The digital forensics section will involve working with files
 <ul>
   <li> File Inspection
     <ol>
-      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/423">Secret of the Polygot</a></li>. To solve this challenge we will observe how changing file types can be used to hide data.
+      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/423">Secret of the Polygot</a>. To solve this challenge we will observe how changing file types can be used to hide data.</li>
     </ol>
   </li>
   <li> Hidden Text
     <ol>
-      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/44">Glory of the Garden</a></li>. To solve this challenge we will use <a href="https://hexed.it/">hexed.it</a> which allows us to view the raw data of a file.
+      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/44">Glory of the Garden</a>. To solve this challenge we will use <a href="https://hexed.it/">hexed.it</a> which allows us to view the raw data of a file.</li>
     </ol>
   </li>
 </ul>
+
 ## General Cyber Skills
