@@ -21,7 +21,7 @@ The cryptography section will introduce encryption and hashing.
 <ul>
   <li> Encryption
     <ol>
-      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/62">13</a>. To solve this caesar shift cypher related challenge, we will use <a href="https://www.dcode.fr/caesar-cipher">decode.fr</a>.</li>
+      <li>The picoCTF challenge we will use is <a href="https://play.picoctf.org/practice/challenge/62">13</a>. To solve this caesar shift cypher related challenge, we will use <a href="https://cryptii.com/pipes/caesar-cipher">cryptii</a>.</li>
     </ol>
   </li>
   <li> Hashing
